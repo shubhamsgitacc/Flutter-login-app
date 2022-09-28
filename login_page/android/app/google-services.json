@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875382591200",
+    "project_id": "loginone-4e679",
+    "storage_bucket": "loginone-4e679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875382591200:android:8669e1ad181b8b3489ca85",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875382591200-j3atl4noesqftlet6pa4alf2f7gemmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqYFuINMHtUeCwrM1SIfe7k1bIRdFOh4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875382591200-j3atl4noesqftlet6pa4alf2f7gemmvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
